@@ -21,4 +21,8 @@ jobs:
       - name: build
         run: npm run build
 
-    
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v6.0.0
+        with:
+           name: drop
+           path: build
