@@ -3,3 +3,4 @@
 ![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
 
 ## We will use this project for our Day4/16 video of Azure DevOps Zero to Hero series
+[![Node.js Package](https://github.com/i-anuj/npm1/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/i-anuj/npm1/actions/workflows/npm-publish-github-packages.yml)
