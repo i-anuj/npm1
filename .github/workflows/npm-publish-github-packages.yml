@@ -6,11 +6,11 @@ name: Node.js Package
 on:
   push:
     branches:
-      - main1
+      - main
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest1
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
